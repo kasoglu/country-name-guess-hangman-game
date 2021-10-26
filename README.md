@@ -5,7 +5,7 @@ This Country Hangman game written in Python.  Visit https://example.com to play 
 
 How to play this game?
 
-When you execute the game on your idle/terminal you will notice this main page.
+When you execute the game on your idle/terminal, you will notice this main page.
 
 ![game_mainpage](https://i.ibb.co/JFdrsxG/game-mainpage.png)
 
