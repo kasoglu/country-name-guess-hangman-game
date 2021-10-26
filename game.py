@@ -41,7 +41,7 @@ while not game_is_finished:
 
     #Checking if user entered a wrong value.
     if guess not in chosen_word:
-        print(f"You guessed {guess}, that's not in the word. You lose a life.")
+        print(f"You guessed '{guess.upper()}' and that's not in the word. You lose a life.")
         lives -= 1
         if lives == 0:
             game_is_finished = True
