@@ -23,5 +23,5 @@ If your wrong guess exceeds over 6 times you will lose the game.
 
 After all true guesses, you will save man's life. Congrutulations..
 
-![game_guess_win]](https://i.ibb.co/WHFHbgP/game-result-win.png)
+![game_guess_win](https://i.ibb.co/WHFHbgP/game-result-win.png)
 
