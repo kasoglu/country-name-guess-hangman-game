@@ -1,4 +1,4 @@
-# country-name-guess-hangman-game
+# Country Name Guess Hangman Game
 This Country Hangman game written in Python.  Visit https://example.com to play the game.
 
 # Description
